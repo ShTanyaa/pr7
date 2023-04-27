@@ -1,0 +1,13 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\bin\Debug\игра пятнашки.exe.config
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\bin\Debug\игра пятнашки.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\bin\Debug\игра пятнашки.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра пятнашки.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра пятнашки.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра_пятнашки.Form1.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра_пятнашки.Properties.Resources.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра пятнашки.csproj.GenerateResource.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра пятнашки.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра пятнашки.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра пятнашки.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра_пятнашки.Form2.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\игра пятнашки\obj\Debug\игра_пятнашки.Form3.resources
